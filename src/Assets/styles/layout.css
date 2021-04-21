@@ -1,0 +1,41 @@
+.logo {
+  padding: 10px 0 0 0;
+  width: 150px;
+}
+.listItem {
+  padding: 10px !important;
+  color: #000 !important;
+}
+.listItem:hover {
+  background-color: #3f51b4;
+  color: #fff !important;
+}
+.listItem .MuiSvgIcon-root {
+  color: #000 !important;
+}
+.listItem:hover .MuiSvgIcon-root {
+  color: #fff !important;
+}
+.listItem.Mui-selected {
+  color: #000 !important;
+  background-color: #d5d9f0 !important;
+}
+
+.listItem.Mui-selected:hover {
+  background: #3f51b4 !important;
+  color: #fff !important;
+}
+.sidebarTitle {
+  text-decoration: none !important;
+}
+.menuButton {
+  margin-right: 30;
+}
+.menuButton:hover {
+  background-color: #fff !important;
+  color: #3f51b4 !important;
+}
+.close:hover {
+  background-color: #3f51b4 !important;
+  color: #fff !important;
+}
